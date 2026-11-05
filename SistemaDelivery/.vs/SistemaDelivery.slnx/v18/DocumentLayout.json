@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Faculdade\\Projetos-Faculdade\\SistemaDeliveryRepository\\sistema-de-delivery\\SistemaDelivery\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F67122E6-FD67-401C-AA00-95769FA7057A}|NewFolder1{F67122E6-FD67-401C-AA00-95769FA7057A}|C:\\Faculdade\\Projetos-Faculdade\\SistemaDeliveryRepository\\sistema-de-delivery\\SistemaDelivery\\DeliveryDBContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F67122E6-FD67-401C-AA00-95769FA7057A}|NewFolder1{F67122E6-FD67-401C-AA00-95769FA7057A}|solutionrelative:DeliveryDBContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5830F5F4-3DEE-4323-81CB-C99863684D7D}|NewFolder1{5830F5F4-3DEE-4323-81CB-C99863684D7D}|C:\\Faculdade\\Projetos-Faculdade\\SistemaDeliveryRepository\\sistema-de-delivery\\SistemaDelivery\\ProdutoServices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5830F5F4-3DEE-4323-81CB-C99863684D7D}|NewFolder1{5830F5F4-3DEE-4323-81CB-C99863684D7D}|solutionrelative:ProdutoServices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C74DD3C2-C8F1-4644-8606-8CD5B1570A69}|NewFolder1{C74DD3C2-C8F1-4644-8606-8CD5B1570A69}|C:\\Faculdade\\Projetos-Faculdade\\SistemaDeliveryRepository\\sistema-de-delivery\\SistemaDelivery\\Cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C74DD3C2-C8F1-4644-8606-8CD5B1570A69}|NewFolder1{C74DD3C2-C8F1-4644-8606-8CD5B1570A69}|solutionrelative:Cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C74DD3C2-C8F1-4644-8606-8CD5B1570A69}|NewFolder1{C74DD3C2-C8F1-4644-8606-8CD5B1570A69}|C:\\Faculdade\\Projetos-Faculdade\\SistemaDeliveryRepository\\sistema-de-delivery\\SistemaDelivery\\Pedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C74DD3C2-C8F1-4644-8606-8CD5B1570A69}|NewFolder1{C74DD3C2-C8F1-4644-8606-8CD5B1570A69}|solutionrelative:Pedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C74DD3C2-C8F1-4644-8606-8CD5B1570A69}|NewFolder1{C74DD3C2-C8F1-4644-8606-8CD5B1570A69}|C:\\Faculdade\\Projetos-Faculdade\\SistemaDeliveryRepository\\sistema-de-delivery\\SistemaDelivery\\Produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C74DD3C2-C8F1-4644-8606-8CD5B1570A69}|NewFolder1{C74DD3C2-C8F1-4644-8606-8CD5B1570A69}|solutionrelative:Produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C74DD3C2-C8F1-4644-8606-8CD5B1570A69}|NewFolder1{C74DD3C2-C8F1-4644-8606-8CD5B1570A69}|C:\\Faculdade\\Projetos-Faculdade\\SistemaDeliveryRepository\\sistema-de-delivery\\SistemaDelivery\\Restaurante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C74DD3C2-C8F1-4644-8606-8CD5B1570A69}|NewFolder1{C74DD3C2-C8F1-4644-8606-8CD5B1570A69}|solutionrelative:Restaurante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8734FC1-EE1E-41C6-A89D-C8E0DD67596C}|SistemaDelivery.csproj|c:\\faculdade\\projetos-faculdade\\sistemadeliveryrepository\\sistema-de-delivery\\sistemadelivery\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A8734FC1-EE1E-41C6-A89D-C8E0DD67596C}|SistemaDelivery.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DeliveryDBContext.cs",
+              "DocumentMoniker": "C:\\Faculdade\\Projetos-Faculdade\\SistemaDeliveryRepository\\sistema-de-delivery\\SistemaDelivery\\DeliveryDBContext.cs",
+              "RelativeDocumentMoniker": "DeliveryDBContext.cs",
+              "ToolTip": "C:\\Faculdade\\Projetos-Faculdade\\SistemaDeliveryRepository\\sistema-de-delivery\\SistemaDelivery\\DeliveryDBContext.cs",
+              "RelativeToolTip": "DeliveryDBContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-05T22:36:59.794Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProdutoServices.cs",
+              "DocumentMoniker": "C:\\Faculdade\\Projetos-Faculdade\\SistemaDeliveryRepository\\sistema-de-delivery\\SistemaDelivery\\ProdutoServices.cs",
+              "RelativeDocumentMoniker": "ProdutoServices.cs",
+              "ToolTip": "C:\\Faculdade\\Projetos-Faculdade\\SistemaDeliveryRepository\\sistema-de-delivery\\SistemaDelivery\\ProdutoServices.cs",
+              "RelativeToolTip": "ProdutoServices.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-05T22:36:30.067Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Cliente.cs",
+              "DocumentMoniker": "C:\\Faculdade\\Projetos-Faculdade\\SistemaDeliveryRepository\\sistema-de-delivery\\SistemaDelivery\\Cliente.cs",
+              "RelativeDocumentMoniker": "Cliente.cs",
+              "ToolTip": "C:\\Faculdade\\Projetos-Faculdade\\SistemaDeliveryRepository\\sistema-de-delivery\\SistemaDelivery\\Cliente.cs",
+              "RelativeToolTip": "Cliente.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-05T22:36:15.052Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Pedido.cs",
+              "DocumentMoniker": "C:\\Faculdade\\Projetos-Faculdade\\SistemaDeliveryRepository\\sistema-de-delivery\\SistemaDelivery\\Pedido.cs",
+              "RelativeDocumentMoniker": "Pedido.cs",
+              "ToolTip": "C:\\Faculdade\\Projetos-Faculdade\\SistemaDeliveryRepository\\sistema-de-delivery\\SistemaDelivery\\Pedido.cs",
+              "RelativeToolTip": "Pedido.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-05T22:36:05.475Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Produto.cs",
+              "DocumentMoniker": "C:\\Faculdade\\Projetos-Faculdade\\SistemaDeliveryRepository\\sistema-de-delivery\\SistemaDelivery\\Produto.cs",
+              "RelativeDocumentMoniker": "Produto.cs",
+              "ToolTip": "C:\\Faculdade\\Projetos-Faculdade\\SistemaDeliveryRepository\\sistema-de-delivery\\SistemaDelivery\\Produto.cs",
+              "RelativeToolTip": "Produto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-05T22:35:45.824Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Restaurante.cs",
+              "DocumentMoniker": "C:\\Faculdade\\Projetos-Faculdade\\SistemaDeliveryRepository\\sistema-de-delivery\\SistemaDelivery\\Restaurante.cs",
+              "RelativeDocumentMoniker": "Restaurante.cs",
+              "ToolTip": "C:\\Faculdade\\Projetos-Faculdade\\SistemaDeliveryRepository\\sistema-de-delivery\\SistemaDelivery\\Restaurante.cs",
+              "RelativeToolTip": "Restaurante.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-05T22:35:36.679Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Faculdade\\Projetos-Faculdade\\SistemaDeliveryRepository\\sistema-de-delivery\\SistemaDelivery\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "MainWindow.xaml",
+              "ToolTip": "C:\\Faculdade\\Projetos-Faculdade\\SistemaDeliveryRepository\\sistema-de-delivery\\SistemaDelivery\\MainWindow.xaml",
+              "RelativeToolTip": "MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-11-05T22:29:47.6Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

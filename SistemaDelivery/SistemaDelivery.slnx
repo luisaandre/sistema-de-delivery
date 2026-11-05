@@ -1,0 +1,19 @@
+<Solution>
+  <Folder Name="/Control/">
+    <File Path="ProdutoServices.cs" />
+  </Folder>
+  <Folder Name="/DataBase/">
+    <File Path="DeliveryDBContext.cs" />
+  </Folder>
+  <Folder Name="/Model/">
+    <File Path="Cliente.cs" />
+    <File Path="Pedido.cs" />
+    <File Path="Produto.cs" />
+    <File Path="Restaurante.cs" />
+  </Folder>
+  <Folder Name="/View/">
+    <Project Path="../TelaAdministrador/TelaAdministrador.csproj" />
+    <Project Path="../TelaCliente/TelaCliente.csproj" />
+    <Project Path="TelaInicial.csproj" />
+  </Folder>
+</Solution>
