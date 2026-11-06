@@ -3,32 +3,32 @@
   "WorkspaceRootPath": "C:\\Faculdade\\Projetos-Faculdade\\SistemaDeliveryRepository\\sistema-de-delivery\\SistemaDelivery\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F67122E6-FD67-401C-AA00-95769FA7057A}|NewFolder1{F67122E6-FD67-401C-AA00-95769FA7057A}|C:\\Faculdade\\Projetos-Faculdade\\SistemaDeliveryRepository\\sistema-de-delivery\\SistemaDelivery\\DeliveryDBContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F67122E6-FD67-401C-AA00-95769FA7057A}|NewFolder1{F67122E6-FD67-401C-AA00-95769FA7057A}|solutionrelative:DeliveryDBContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E0096E63-5207-411F-2649-837654E3C58A}|DataBase{E0096E63-5207-411F-2649-837654E3C58A}|C:\\Faculdade\\Projetos-Faculdade\\SistemaDeliveryRepository\\sistema-de-delivery\\SistemaDelivery\\DeliveryDBContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0096E63-5207-411F-2649-837654E3C58A}|DataBase{E0096E63-5207-411F-2649-837654E3C58A}|solutionrelative:DeliveryDBContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5830F5F4-3DEE-4323-81CB-C99863684D7D}|NewFolder1{5830F5F4-3DEE-4323-81CB-C99863684D7D}|C:\\Faculdade\\Projetos-Faculdade\\SistemaDeliveryRepository\\sistema-de-delivery\\SistemaDelivery\\ProdutoServices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5830F5F4-3DEE-4323-81CB-C99863684D7D}|NewFolder1{5830F5F4-3DEE-4323-81CB-C99863684D7D}|solutionrelative:ProdutoServices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CF2208CF-FB36-CC30-0F35-6879C486E4B2}|Control{CF2208CF-FB36-CC30-0F35-6879C486E4B2}|C:\\Faculdade\\Projetos-Faculdade\\SistemaDeliveryRepository\\sistema-de-delivery\\SistemaDelivery\\ProdutoServices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF2208CF-FB36-CC30-0F35-6879C486E4B2}|Control{CF2208CF-FB36-CC30-0F35-6879C486E4B2}|solutionrelative:ProdutoServices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C74DD3C2-C8F1-4644-8606-8CD5B1570A69}|NewFolder1{C74DD3C2-C8F1-4644-8606-8CD5B1570A69}|C:\\Faculdade\\Projetos-Faculdade\\SistemaDeliveryRepository\\sistema-de-delivery\\SistemaDelivery\\Cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C74DD3C2-C8F1-4644-8606-8CD5B1570A69}|NewFolder1{C74DD3C2-C8F1-4644-8606-8CD5B1570A69}|solutionrelative:Cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{62B8A37E-7066-D91A-6443-87D4E6CE63FE}|Model{62B8A37E-7066-D91A-6443-87D4E6CE63FE}|C:\\Faculdade\\Projetos-Faculdade\\SistemaDeliveryRepository\\sistema-de-delivery\\SistemaDelivery\\Cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62B8A37E-7066-D91A-6443-87D4E6CE63FE}|Model{62B8A37E-7066-D91A-6443-87D4E6CE63FE}|solutionrelative:Cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C74DD3C2-C8F1-4644-8606-8CD5B1570A69}|NewFolder1{C74DD3C2-C8F1-4644-8606-8CD5B1570A69}|C:\\Faculdade\\Projetos-Faculdade\\SistemaDeliveryRepository\\sistema-de-delivery\\SistemaDelivery\\Pedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C74DD3C2-C8F1-4644-8606-8CD5B1570A69}|NewFolder1{C74DD3C2-C8F1-4644-8606-8CD5B1570A69}|solutionrelative:Pedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{62B8A37E-7066-D91A-6443-87D4E6CE63FE}|Model{62B8A37E-7066-D91A-6443-87D4E6CE63FE}|C:\\Faculdade\\Projetos-Faculdade\\SistemaDeliveryRepository\\sistema-de-delivery\\SistemaDelivery\\Pedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62B8A37E-7066-D91A-6443-87D4E6CE63FE}|Model{62B8A37E-7066-D91A-6443-87D4E6CE63FE}|solutionrelative:Pedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C74DD3C2-C8F1-4644-8606-8CD5B1570A69}|NewFolder1{C74DD3C2-C8F1-4644-8606-8CD5B1570A69}|C:\\Faculdade\\Projetos-Faculdade\\SistemaDeliveryRepository\\sistema-de-delivery\\SistemaDelivery\\Produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C74DD3C2-C8F1-4644-8606-8CD5B1570A69}|NewFolder1{C74DD3C2-C8F1-4644-8606-8CD5B1570A69}|solutionrelative:Produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{62B8A37E-7066-D91A-6443-87D4E6CE63FE}|Model{62B8A37E-7066-D91A-6443-87D4E6CE63FE}|C:\\Faculdade\\Projetos-Faculdade\\SistemaDeliveryRepository\\sistema-de-delivery\\SistemaDelivery\\Produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62B8A37E-7066-D91A-6443-87D4E6CE63FE}|Model{62B8A37E-7066-D91A-6443-87D4E6CE63FE}|solutionrelative:Produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C74DD3C2-C8F1-4644-8606-8CD5B1570A69}|NewFolder1{C74DD3C2-C8F1-4644-8606-8CD5B1570A69}|C:\\Faculdade\\Projetos-Faculdade\\SistemaDeliveryRepository\\sistema-de-delivery\\SistemaDelivery\\Restaurante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C74DD3C2-C8F1-4644-8606-8CD5B1570A69}|NewFolder1{C74DD3C2-C8F1-4644-8606-8CD5B1570A69}|solutionrelative:Restaurante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{62B8A37E-7066-D91A-6443-87D4E6CE63FE}|Model{62B8A37E-7066-D91A-6443-87D4E6CE63FE}|C:\\Faculdade\\Projetos-Faculdade\\SistemaDeliveryRepository\\sistema-de-delivery\\SistemaDelivery\\Restaurante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62B8A37E-7066-D91A-6443-87D4E6CE63FE}|Model{62B8A37E-7066-D91A-6443-87D4E6CE63FE}|solutionrelative:Restaurante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A8734FC1-EE1E-41C6-A89D-C8E0DD67596C}|SistemaDelivery.csproj|c:\\faculdade\\projetos-faculdade\\sistemadeliveryrepository\\sistema-de-delivery\\sistemadelivery\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{A8734FC1-EE1E-41C6-A89D-C8E0DD67596C}|SistemaDelivery.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{2A82368C-6E32-973C-7B40-9A2EF2340D51}|TelaInicial.csproj|c:\\faculdade\\projetos-faculdade\\sistemadeliveryrepository\\sistema-de-delivery\\sistemadelivery\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{2A82368C-6E32-973C-7B40-9A2EF2340D51}|TelaInicial.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     }
   ],
   "DocumentGroupContainers": [
@@ -71,8 +71,7 @@
               "RelativeToolTip": "ProdutoServices.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-05T22:36:30.067Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-11-05T22:36:30.067Z"
             },
             {
               "$type": "Document",
@@ -84,8 +83,7 @@
               "RelativeToolTip": "Cliente.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-05T22:36:15.052Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-11-05T22:36:15.052Z"
             },
             {
               "$type": "Document",
@@ -97,8 +95,7 @@
               "RelativeToolTip": "Pedido.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-05T22:36:05.475Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-11-05T22:36:05.475Z"
             },
             {
               "$type": "Document",
@@ -110,8 +107,7 @@
               "RelativeToolTip": "Produto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-05T22:35:45.824Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-11-05T22:35:45.824Z"
             },
             {
               "$type": "Document",
@@ -123,8 +119,7 @@
               "RelativeToolTip": "Restaurante.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-05T22:35:36.679Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-11-05T22:35:36.679Z"
             },
             {
               "$type": "Document",
@@ -135,8 +130,7 @@
               "ToolTip": "C:\\Faculdade\\Projetos-Faculdade\\SistemaDeliveryRepository\\sistema-de-delivery\\SistemaDelivery\\MainWindow.xaml",
               "RelativeToolTip": "MainWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2026-11-05T22:29:47.6Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-11-05T22:29:47.6Z"
             }
           ]
         },
