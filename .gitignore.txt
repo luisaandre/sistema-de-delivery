@@ -1,7 +1,5 @@
-# Ignorar pastas de compilação
 [Bb]in/
 [Oo]bj/
 
-# Ignorar arquivos temporários do Visual Studio
 .vs/
 *.user
